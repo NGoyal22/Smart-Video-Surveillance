@@ -1,5 +1,5 @@
 # SmartSurveillanceSystem
-![GitHub Logo](images/project.jpg)
+![Alt Text](images/project.jpg)
 
 
 ## Abstract

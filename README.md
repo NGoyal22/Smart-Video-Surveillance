@@ -1,5 +1,5 @@
 # SmartSurveillanceSystem
-![images/project.jpg](images/project.jpg)
+![Smart Surveillance System](./images/project.jpeg)
 
 
 ## Abstract

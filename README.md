@@ -1,5 +1,5 @@
 # SmartSurveillanceSystem
-![Alt Text](images/project.jpg)
+![images/project.jpg](images/project.jpg)
 
 
 ## Abstract
